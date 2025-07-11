@@ -29,14 +29,33 @@ TODO 补充完善
 ---
 
 ## Redis
-TODO 补充完善
+### 教程
 
-（需要涉及相应的框架）
+1. [Redis 官方文档](https://redis.io/docs/latest/develop/) - Redis的官方文档写的非常好，根据官方文档学习基本用法完全没有问题
+
+2. [Redis 学习之旅](https://dinglz.cn/tags/redis/) - [dinglz](https://github.com/dingdinglz)的Redis学习记录，涵盖内容包括redis的使用，以及在go中如何使用redis（redis-go），每个教程中都有小例子帮你理解学习该Redis类型的意义是什么 
+
+### 框架
+
+1. [go-redis](https://github.com/redis/go-redis) - 建议搭配Redis学习之旅食用
+
+### 视频教程
+
+1. [Redis应用场景总结](https://www.bilibili.com/video/BV1x4MmzUEJt) - 真实项目中你该如何去使用redis，请完成redis的基础学习后再观看本视频
 
 ---
 
 ## Go Web
-TODO 补充完善
+### 教程
+
+1. [从0开始敲一个go web项目：教程](https://github.com/TIC-DLUT/2025_spring_backend) - 这是一个例会项目，是一个ai对话项目的后端，项目中有完整的包含语法、结构、数据库、ai调用的教程，完整地跟着该项目的readme敲完整个教程后，独立开发简单的go web项目不成问题
+
+2. [7天用Go从零实现Web框架Gee教程](https://geektutu.com/post/gee.html) - 亲手设计框架后更能更好地使用其他框架，掌握原理，该教程适合想要深层次进阶的同学，该栏目下其他几个七天项目也十分推荐
+
+### 框架推荐（深入学习其中一个即可，思路互通）
+
+- [Gin框架](https://gin-gonic.com/zh-cn/docs/introduction/)
+- [Fiber框架](https://docs.gofiber.io/)
 
 ---
 
