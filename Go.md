@@ -18,6 +18,10 @@
    <br/>一个比较完整，涵盖了各种实际开发中所需要的功能的项目。比较完整但难度不会很大，可以作为刚开始
    <br/>做项目的起步。
    > 由[lyydsheep](https://github.com/lyydsheep)学长提供
+2. [定时微服务](https://github.com/lyydsheep/micro-tt)
+   <br/>其中的 tick-tock 微服务是复现 github 上的一个开源项目，涵盖了本人阅读原项目时做的各种图，建议结合原项目阅读学习。
+3. [go-chat](https://github.com/LockGit/gochat)
+   <br/> 使用纯go实现的轻量级im系统。项目的 readme 很详细，便于快速上手 Go 项目。
 
 --- 
 
@@ -65,4 +69,10 @@ TODO 补充完善
 ---
 
 ## Docker、Kubernetes
-TODO 补充完善
+
+- [Docker视频教程](https://www.bilibili.com/video/BV1gr4y1U7CY/?spm_id_from=333.337.search-card.all.click&vd_source=a15269894d9b8114cb5f9bb663d22be9)
+- [Kubernetes视频教程(强烈推荐(✧∀✧))](https://www.bilibili.com/video/BV1GSu7zLE4F?spm_id_from=333.788.videopod.episodes&vd_source=a15269894d9b8114cb5f9bb663d22be9)
+- [Kubernetes知识点](https://www.yuque.com/lyydsheep/kyeikv/cnxtgcz3edmxnemq?singleDoc#)
+    - pdf格式，在线预览即可
+
+> 后续补充 Kubernetes 实操项目
