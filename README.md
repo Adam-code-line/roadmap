@@ -19,7 +19,7 @@
 
 #### 客户端
 
-- [ ] flutter
+- [x] [flutter](./flutter/)
 
 #### 大模型
 
