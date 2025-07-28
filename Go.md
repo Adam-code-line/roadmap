@@ -74,5 +74,8 @@ TODO 补充完善
 - [Kubernetes视频教程(强烈推荐(✧∀✧))](https://www.bilibili.com/video/BV1GSu7zLE4F?spm_id_from=333.788.videopod.episodes&vd_source=a15269894d9b8114cb5f9bb663d22be9)
 - [Kubernetes知识点](https://www.yuque.com/lyydsheep/kyeikv/cnxtgcz3edmxnemq?singleDoc#)
     - pdf格式，在线预览即可
+- [Kubernetes-combat](https://github.com/crossoverJie/k8s-combat)
 
-> 后续补充 Kubernetes 实操项目
+## 其他
+- [Go八股文](https://golangstar.cn/go_series/introduction.html)
+- [项目解读器](https://zread.ai/)
