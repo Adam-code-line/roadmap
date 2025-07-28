@@ -10,7 +10,7 @@
 
 - [ ] [Golang](Go.md)
 - [ ] Java
-- [ ] Python
+- [x] [Python](Python.md)
 
 #### 前端
 
