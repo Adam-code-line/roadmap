@@ -152,18 +152,20 @@ Namespaces are one honking great idea -- let's do more of those!
   * [Regex Learn - 逐步从零基础到高阶。](https://regexlearn.com/zh-cn)
 * 异步与多线程
   * [Python并发总结：多线程、多进程与异步编程 - wang_yb - 博客园](https://www.cnblogs.com/wang_yb/p/18643761)
-
 * 数据结构与算法（可能没必要专门学，学校大二的课程够用）
   * [【北京大学】数据结构与算法Python版（完整版）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1VC4y1x7uv/?vd_source=8b3f1597864c695baad02815a988028e)
 * 数据库编程（包括 SQL 基础与 Python 数据库连接）
   * [Python + MySQL 0基础从入门到精通 MySQL数据库实战精讲教程（2021精华版）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1B34y1R7in/?spm_id_from=333.337.search-card.all.click&vd_source=8b3f1597864c695baad02815a988028e)（不一定要 MySQL，其他数据库也是一样的）
 * 前端基础（HTML + CSS + JavaScript）（现在有 AI，可能不那么重要了，但是得多少懂一点吧）
   * [3小时前端入门教程（HTML+CSS+JS）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1BT4y1W7Aw/?spm_id_from=333.337.search-card.all.click&vd_source=8b3f1597864c695baad02815a988028e)
-
 * 网络编程
   * [最实用的Python网络编程（完整版）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1aq4y137T6/?spm_id_from=333.337.search-card.all.click&vd_source=8b3f1597864c695baad02815a988028e)
+* RESTful API
+  * [RESTful API 教程 | 菜鸟教程](https://www.runoob.com/restfulapi/restful-api-tutorial.html)
 
 ## Flask
+
+足够轻量级的 Web 框架，小项目用起来很合适。
 
 * 官方文档：[欢迎来到 Flask 的世界 — Flask Documentation (3.1.x)](https://flask.palletsprojects.com/zh-cn/stable/)
 * [Flask 中文网](https://flask.github.net.cn/)
@@ -173,10 +175,16 @@ Namespaces are one honking great idea -- let's do more of those!
 
 ## Django
 
+相比于 Flask 功能更加强大，也更加健壮，当然代价是 Django 它太“大”了，在小型项目上表现可能不如 Flask（并不是 Django 性能不好，Django 自带的一堆工具可能会拖累性能，实际上这是 Python 的锅），适合用来开发功能完善的企业级网站，从这一点来考虑，Django 可能更适合那些喜欢 Java 的人（？？当然这里没有黑 Java 的意思
+
 * 官方文档：[The web framework for perfectionists with deadlines | Django](https://www.djangoproject.com/)
 * 视频教程与实战：[2025版-零基础玩转Python Django5项目实战-学完可就业_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1N1421U76L/?spm_id_from=333.337.search-card.all.click&vd_source=8b3f1597864c695baad02815a988028e)
 * Python + 微信小程序实战开发：[18天学会 Python+微信小程序实战开发（全套课程）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Xy4y1s792/?vd_source=8b3f1597864c695baad02815a988028e)
 
 ## FastAPI
 
-待更新……
+如它的名字所示， FastAPI 框架专注于构建 API，而不是像 Flask 和 Django 一样还负责网页的渲染（当然不是不能干，FastAPI 同样使用 Flask 的 Jinja2 引擎来渲染网页模板），它更像一个纯粹的后端框架，还可以自动生成 Swagger UI 文档。官方宣称 FastAPI 拥有极高的性能，与 Go 和 NodeJS 相比都不相上下，是目前最快的 Python 框架之一。如果你只是希望用 Python 来编写后端 API，FastAPI 毫无疑问是首选。
+
+* 官方文档：[FastAPI 框架](https://fastapi.org.cn/)
+* 视频教程：[fastapi框架快速学习_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Ya4y1D7et/?spm_id_from=333.337.search-card.all.click&vd_source=8b3f1597864c695baad02815a988028e)
+* 实战：[FastAPI 实战项目教程：构建完整的博客 API - IT-手册](https://buffaloboyhlh.github.io/it-handbooks/Web篇/FastAPI/practice/)
