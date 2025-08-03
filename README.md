@@ -9,7 +9,7 @@
 #### 后端
 
 - [ ] [Golang](Go.md)
-- [ ] Java
+- [x] [Java](Java.md)
 - [x] [Python](Python.md)
 
 #### 前端
