@@ -22,6 +22,8 @@
    <br/>其中的 tick-tock 微服务是复现 github 上的一个开源项目，涵盖了本人阅读原项目时做的各种图，建议结合原项目阅读学习。
 3. [go-chat](https://github.com/LockGit/gochat)
    <br/> 使用纯go实现的轻量级im系统。项目的 readme 很详细，便于快速上手 Go 项目。
+4. [七天](https://github.com/geektutu/7days-golang)
+   <br/> 七天用Go从零系列，简单的Web框架、分布式缓存、ORM和RPC实现
 
 --- 
 
