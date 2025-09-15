@@ -1,21 +1,24 @@
-## 开发学习路线图
+## TIC-DLUT 开发学习路线图
 
-1. 各语言细化成知识点+教程链接的形式，可以参考[https://roadmap.sh/](https://roadmap.sh/)
-2. 设计过程中，可以新建语言名的文件夹，每个同学负责一部分，实时同步进度
-3. 最后汇总成单个文件名.md的形式
+### 列表
 
-### 目前完成列表
+#### 扫盲
+
+- [ ] [计算机系统扫盲](BasicCS/OS.md)
+- [ ] [数据结构扫盲](BasicCS/DataStructures.md)
+- [ ] [计算机网络扫盲](BasicCS/ComputerNetwork.md)
 
 #### 后端
 
-- [ ] [Golang](Go.md)
+- [x] [Golang](Go.md)
 - [x] [Java](Java.md)
 - [x] [Python](Python.md)
 
 #### 前端
 
-- [ ] react
-- [ ] vue
+- [x] [前端总览](Front-end/Front-end.md)
+- [x] [react](Front-end/React.md)
+- [x] [vue](Front-end/Vue.md)
 
 #### 客户端
 
