@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="assets/logo.png" height="200" />
+</div>
+
 ## TIC-DLUT 开发学习路线图
 
 ### 列表
@@ -7,6 +11,11 @@
 - [ ] [计算机系统扫盲](BasicCS/OS.md)
 - [ ] [数据结构扫盲](BasicCS/DataStructures.md)
 - [ ] [计算机网络扫盲](BasicCS/ComputerNetwork.md)
+
+#### 开发知识扫盲
+
+- [ ] [什么是前端](BasicDevelop/frontend.md)
+- [ ] [什么是后端](BasicDevelop/backend.md)
 
 #### 后端
 
