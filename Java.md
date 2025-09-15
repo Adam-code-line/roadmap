@@ -150,9 +150,9 @@ MySQL可以先不用学的那么深,对付一般的业务逻辑只用学这些�
 
 - 学这些技术的时候， **千万不能懒** ！一定要多记笔记，并且跟着老师写代码。原理部分不要太过纠结，先以能跟着敲出代码、写出可运行的项目为主，有些东西做出来也能帮助你更好地理解理论。
 
-- 这里建议大家直接去看黑马的JavaWeb课程 [JavaWeb开发教程](https://www.bilibili.com/video/BV1m84y1w7Tb?vd_source=df996e877d54bec22f414fed7cb7fac4) 视频前面前端的部分可以先不看,但是当你学完后面所有知识后一定要拐回来看完这块,这样你才能完全理解前后端的关系,还有以后该怎样和前端的工程师进行对接.
+- 这里建议大家直接去看黑马的[JavaWeb开发教程](https://www.bilibili.com/video/BV1m84y1w7Tb?vd_source=df996e877d54bec22f414fed7cb7fac4),视频前面前端的部分可以先不看,但是当你学完后面所有知识后一定要拐回来看完这块,这样你才能完全理解前后端的关系,还有以后该怎样和前端的工程师进行对接.
 
-- 在学习完JavaWeb过后，你已经能够基本使用Spring框架来开发后端程序了，此时可以看黑马最新版的SSM课程[SSM教程](https://www.bilibili.com/video/BV1Fi4y1S7ix?spm_id_from=333.788.videopod.episodes&vd_source=a61fc3fb792256ba8660ac50b68dc3db&p=4)，更深入地了解Spring框架的核心思想（如IOC和AOP等）及使用，巩固好基础.
+- 在学习完JavaWeb过后，你已经能够基本使用Spring框架来开发后端程序了，此时可以看黑马最新版的[SSM课程](https://www.bilibili.com/video/BV1Fi4y1S7ix?spm_id_from=333.788.videopod.episodes&vd_source=a61fc3fb792256ba8660ac50b68dc3db&p=4)，更深入地了解Spring框架的核心思想（如IOC和AOP等）及使用，巩固好基础.
 
 学完上述内容之后,你就可以做一些小项目了,但是做项目有一个东西绕不开,那就是Git.
 
@@ -343,7 +343,7 @@ JVM即Java虚拟机，它的职责是运行Java字节码文件。我们常听到
 - JVM监控和故障处理
 
 ### 学习建议
-如果只是为了面试准备并且时间紧张，可以直接看八股文种的内容，如[JavaGuide](https://javaguide.cn/)；如果时间宽裕，可以跟着相关的课程学，只要亲自动手去实践能才能理解地更加透彻.
+如果只是为了面试并且时间紧张，可以直接看八股文中的内容，如[JavaGuide](https://javaguide.cn/)；如果时间宽裕，可以跟着相关的课程学（如[黑马的JVM实战课程](https://www.bilibili.com/video/BV1r94y1b7eS/?spm_id_from=333.337.search-card.all.click&vd_source=a61fc3fb792256ba8660ac50b68dc3db)），只要亲自动手去实践能才能理解地更加透彻.
 
 ## 设计模式
 
