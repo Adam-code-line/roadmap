@@ -92,16 +92,10 @@
    <br/>Kafka入门教程，涵盖基础安装配置和核心功能使用
 
 ### 框架
-1. [amqp091-go](https://github.com/rabbitmq/amqp091-go)
-   <br/>RabbitMQ的Go客户端库，用于在Go应用中与RabbitMQ进行交互
-2. [go-redis/redis](https://github.com/redis/go-redis)
-   <br/>支持Redis的Pub/Sub功能，可以作为轻量级消息队列使用
-
-### 视频教程
-1. [消息队列详解与实战](https://www.bilibili.com/video/BV1EE411B7SU/)
-   <br/>系统讲解消息队列的原理和实际应用场景
-2. [RabbitMQ实战教程](https://www.bilibili.com/video/BV1pa4y1x7Kc/)
-   <br/>通过实际案例讲解RabbitMQ的使用方法和最佳实践
+1. [Kafka Go客户端](https://github.com/segmentio/kafka-go)
+   <br/>Kafka官方推荐的Go客户端库，用于在Go应用中与Kafka进行交互
+2. [Shopify/sarama](https://github.com/Shopify/sarama)
+   <br/>功能全面的Kafka Go客户端，广泛应用于生产环境
 
 ---
 
