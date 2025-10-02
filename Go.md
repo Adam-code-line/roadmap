@@ -28,10 +28,29 @@
 --- 
 
 ## MySQL
-TODO 补充完善
+### gorm框架
+#### 基本使用
+1. [gorm框架入门篇](https://www.liwenzhou.com/posts/Go/gorm/)
+   <br/>李文周老师技术博客，详细介绍gorm框架的基本使用方法
+2. [gorm框架操作教程](https://www.liwenzhou.com/posts/Go/gorm-crud/)
+   <br/>李文周老师技术博客，深入讲解gorm框架的高级操作
 
-（需要涉及相应的框架）
+### 进阶（底层原理）
+#### 索引原理
+1. [小林 coding 索引篇](https://xiaolincoding.com/mysql/)
+   <br/>深入讲解MySQL索引的工作原理
 
+#### 事务
+1. [小林 coding 事务篇](https://xiaolincoding.com/mysql/)
+   <br/> 详细介绍MySQL事务的工作原理
+
+####  锁机制
+1. [小林 coding 锁机制篇](https://xiaolincoding.com/mysql/)
+   <br/>详细介绍MySQL锁机制的工作原理
+
+#### 推荐书籍
+1. [《MySQL 是怎样运行的：从根儿上理解MySQL》](https://relph1119.github.io/mysql-learning-notes/#/)
+   <br/> 详细介绍MySQL的工作原理，包括索引、事务、锁机制等
 ---
 
 ## Redis
@@ -66,7 +85,23 @@ TODO 补充完善
 ---
 
 ## MQ
-TODO 补充完善
+### 教程
+1. [消息队列基础知识](https://javaguide.cn/high-performance/message-queue/message-queue.html)
+   <br/>全面介绍消息队列的基本概念、应用场景和核心特性
+2. [Kafka教程](https://www.cnblogs.com/along21/p/10278100.html)
+   <br/>Kafka入门教程，涵盖基础安装配置和核心功能使用
+
+### 框架
+1. [amqp091-go](https://github.com/rabbitmq/amqp091-go)
+   <br/>RabbitMQ的Go客户端库，用于在Go应用中与RabbitMQ进行交互
+2. [go-redis/redis](https://github.com/redis/go-redis)
+   <br/>支持Redis的Pub/Sub功能，可以作为轻量级消息队列使用
+
+### 视频教程
+1. [消息队列详解与实战](https://www.bilibili.com/video/BV1EE411B7SU/)
+   <br/>系统讲解消息队列的原理和实际应用场景
+2. [RabbitMQ实战教程](https://www.bilibili.com/video/BV1pa4y1x7Kc/)
+   <br/>通过实际案例讲解RabbitMQ的使用方法和最佳实践
 
 ---
 
