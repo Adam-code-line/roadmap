@@ -9,7 +9,7 @@
 #### 扫盲
 
 - [ ] [计算机系统扫盲](BasicCS/OS.md)
-- [ ] [数据结构扫盲](BasicCS/DataStructures.md)
+- [x] [数据结构扫盲](BasicCS/DataStructures.md)
 - [x] [计算机网络扫盲](BasicCS/ComputerNetwork.md)
 
 #### 开发知识扫盲
