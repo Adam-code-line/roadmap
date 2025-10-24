@@ -70,7 +70,7 @@ func main() {
 
 运行后，在服务器访问 `localhost:8080` 得到下图所示的结果。
 
-![](backendtest.png)
+![](../assets/backendtest.png)
 
 当然，如果想要更加炫酷的界面的话就需要用前端的内容相互配合，才能实现了。
 
