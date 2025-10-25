@@ -26,7 +26,7 @@
 5. **跨浏览器兼容性**：确保网页在不同浏览器上都能正常工作，解决浏览器差异带来的问题。
 6. **与后端协作**：前端开发者需要与后端开发者紧密合作，确保前后端数据的正确传输和处理。
 
-![后端belike](../assets/programmer_jokes-3 "后端belike")
+![后端belike](../assets/programmer_jokes-3.jpg "后端belike")
 
 ## 前端开发的步骤
 
