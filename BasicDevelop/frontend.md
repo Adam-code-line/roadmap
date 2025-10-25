@@ -173,9 +173,9 @@
 
 因为领导说我写的文档不像是人写的，所以我决定夹带一些程序员笑话来自证清白,大家看一乐就行了:
 
-[前端笑话](../assets/programmer_jokes-1.jpg)
+![前端笑话](../assets/programmer_jokes-1.jpg "前端笑话")
 
-[Java笑话](../assets/programmer_jokes-2.jpg)
+![Java笑话](../assets/programmer_jokes-2.jpg "Java笑话")
 
 ## 结语
 
